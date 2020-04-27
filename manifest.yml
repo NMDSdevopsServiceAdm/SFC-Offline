@@ -1,0 +1,4 @@
+applications:
+- name: sfcoffline
+  memory: 1G
+  disk_quota: 1GB
